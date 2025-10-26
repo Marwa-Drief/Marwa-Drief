@@ -43,7 +43,9 @@ $
 
 <br>
 
-- **Cloud & Modern Stack**:  
+- **Cloud & Modern Stack**:
+  
+   ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
    ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
    ![ADF](https://img.shields.io/badge/Azure%20Data%20Factory-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
    ![Synapse](https://img.shields.io/badge/Azure%20Synapse-%230078D4.svg?style=for-the-badge&logo=azure-synapse-analytics&logoColor=white)
